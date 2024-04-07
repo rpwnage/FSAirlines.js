@@ -46,3 +46,7 @@ We welcome contributions to FSAirlines! If you find a bug or have an idea for a 
 ## License
 
 FSAirlines is licensed under the MIT License. See the [LICENSE](https://github.com/tabit/fsairlines/blob/master/LICENSE) file for more information.
+
+## Important Note
+
+Please note that this is just a very basic client interpretation for the fsairlines api, I wrote for a customer of mine. If it gets some extension, I will upgrade it. For now, you can use it as a starting point to build your own customized client for interacting with the fsairlines API.
