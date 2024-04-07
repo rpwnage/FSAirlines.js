@@ -7,7 +7,7 @@ FSAirlines is a powerful and flexible JavaScript library for interacting with th
 To use FSAirlines in your project, you need to install it first. You can do this using npm:
 
 ```bash
-npm install @tabit/fsairlines
+npm install fsairlines.js
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install @tabit/fsairlines
 To use FSAirlines, you need to create an instance of the `FSAirlines` class and pass your API key as a configuration option:
 
 ```javascript
-import FSAirlines from "@tabit/fsairlines";
+import FSAirlines from "fsairlines.js";
 
 const config = {
 	api_key: "your_api_key_here",
@@ -37,7 +37,7 @@ fsAirlines
 	});
 ```
 
-FSAirlines provides a wide range of methods for interacting with the VA Interface. You can find a complete list of available methods in the [API documentation](https://github.com/tabit/fsairlines/blob/master/docs/API.md).
+FSAirlines provides a wide range of methods for interacting with the VA Interface. You can find a complete list of available methods in the [API documentation](https://wiki.fsairlines.net/index.php/XML-Interface-v2).
 
 ## Contributing
 
