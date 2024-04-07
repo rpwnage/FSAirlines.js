@@ -10,8 +10,6 @@ To use FSAirlines in your project, you need to install it first. You can do this
 npm install @tabit/fsairlines
 ```
 
-````
-
 ## Usage
 
 To use FSAirlines, you need to create an instance of the `FSAirlines` class and pass your API key as a configuration option:
@@ -50,4 +48,5 @@ We welcome contributions to FSAirlines! If you find a bug or have an idea for a 
 FSAirlines is licensed under the MIT License. See the [LICENSE](https://github.com/tabit/fsairlines/blob/master/LICENSE) file for more information.
 
 ```
-````
+
+```
