@@ -46,7 +46,3 @@ We welcome contributions to FSAirlines! If you find a bug or have an idea for a 
 ## License
 
 FSAirlines is licensed under the MIT License. See the [LICENSE](https://github.com/tabit/fsairlines/blob/master/LICENSE) file for more information.
-
-```
-
-```
