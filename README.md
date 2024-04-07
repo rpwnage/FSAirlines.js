@@ -1,4 +1,4 @@
-# FSAirlines [![npm](https://img.shields.io/npm/v/fsairlines.js.svg)](https://www.npmjs.com/package/fsairlines.js)
+# FSAirlines.js [![npm](https://img.shields.io/npm/v/fsairlines.js.svg)](https://www.npmjs.com/package/fsairlines.js)
 
 FSAirlines is a powerful and flexible JavaScript library for interacting with the FS Airline Interface (VA Interface). It provides a simple and consistent API for making HTTP requests to the VA Interface, allowing you to easily retrieve and manipulate data related to aircraft, airports, airlines, financial data, flight data, pilot data, flight booking, and more.
 
